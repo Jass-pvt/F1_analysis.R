@@ -42,4 +42,3 @@ F1_analysis.R-project/
 ├── F1_analysis.R          # Main R script with code
 ├── dataset.csv              # Input dataset
 └── README.md                # Project overview and guide
-
