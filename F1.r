@@ -7,7 +7,7 @@ library(dplyr)
 
 data <- read.csv("formula1_dataset.csv")
 data$tyre_type <- as.factor(data$tyre_type)
-
+        
 set.seed(42)
 sample_idx <- sample(1:nrow(data), 0.8 * nrow(data))
 train_data <- data[sample_idx, ]
