@@ -4,7 +4,7 @@ install.packages("dplyr")
 library(randomForest)
 library(dplyr)
 # reading data set
-
+         
 data <- read.csv("formula1_dataset.csv")
 data$tyre_type <- as.factor(data$tyre_type)
         
