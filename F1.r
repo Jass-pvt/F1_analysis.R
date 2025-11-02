@@ -1,6 +1,6 @@
 install.packages("randomForest")
 install.packages("dplyr")
-# importing package 
+# importing package    
 library(randomForest)
 library(dplyr)
 # reading data set
