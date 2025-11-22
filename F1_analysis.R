@@ -10,7 +10,7 @@ To analyze and visualize patterns within the dataset using **R programming**, an
 
 ---
 
-## 🚀 Features
+## 🚀 Features  
 
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis (EDA).
@@ -42,4 +42,5 @@ F1_analysis.R-project/
 ├── F1_analysis.R          # Main R script with code
 ├── dataset.csv              # Input dataset
 └── README.md                # Project overview and guide
+
 
