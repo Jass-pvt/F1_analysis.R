@@ -4,7 +4,7 @@ This R project uses the Random Forest algorithm to predict F1 driver performance
 
 ---
 
-## 🎯 Objective
+## 🎯 Objective     
 
 To analyze and visualize patterns within the dataset using **R programming**, and provide insights that can help in decision-making or further statistical modeling.
 
@@ -42,5 +42,6 @@ F1_analysis.R-project/
 ├── F1_analysis.R          # Main R script with code
 ├── dataset.csv              # Input dataset
 └── README.md                # Project overview and guide
+
 
 
