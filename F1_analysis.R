@@ -14,7 +14,7 @@ To analyze and visualize patterns within the dataset using **R programming**, an
 
 - Data cleaning and preprocessing.
 - Exploratory Data Analysis (EDA).
-- Data visualization using `ggplot2` and `plotly` .
+- Data visualization using `ggplot2` and `plotly` .   
 - Summary statistics and correlation analysis.
 - Use of functions and scripting in R.
 - Report generation.
@@ -42,3 +42,4 @@ F1_analysis.R-project/
 ├── F1_analysis.R          # Main R script with code
 ├── dataset.csv              # Input dataset
 └── README.md                # Project overview and guide
+
