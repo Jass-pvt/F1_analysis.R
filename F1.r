@@ -20,7 +20,7 @@ new_car <- data.frame(
   tyre_degradation = 35,
   track_temp = 42,
   fuel_level = 30,
-  driver_performance = 8.5,
+  driver_performance = 8.5, 
   team_strategy_score = 9,
   tyre_type = factor("Soft", levels = c("Soft", "Medium", "Hard")),
   laps_remaining = 15,
